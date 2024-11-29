@@ -19,5 +19,7 @@ Filename: usbevidence.zip
 File Path: https://drive.google.com/file/d/1GYkDJb0yE-VGHMzfHvP0YSCXaEmgs4P9 
 
 
-<iframe src="https://github.com/bitz-1/Forensics-CTF-USB-Eviden/blob/main/USB%20Evidence%20Forensics%20CTF%20Report_Apurv.pdf" width="100%" height="600px"></iframe>
+[![View the PDF](https://github.com/bitz-1/Forensics-CTF-USB-Eviden/blob/main/USB%20Evidence%20Forensics%20CTF%20Report_Apurv.pdf)]
+
+
 
